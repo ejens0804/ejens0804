@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Focus Music Recommender - Recommendations</title>
+  <link rel="stylesheet" href="./styles/styles.css">
+  <link rel="icon" href="favicon.ico" type="image/x-icon">
+  <script src="focus-music.js" defer></script>
+</head>
+<body>
+  <!-- Header -->
+  <header>
+    <h1>🎧 Focus Music Recommender</h1>
+    <nav>
+      <ul>
+        <li><a href="index.html">Home</a></li>
+        <li><a href="recommendations.html">Recommendations</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <!-- Recommendation Section -->
+  <section class="recommendations">
+    <h2>Find Music That Matches Your Mood</h2>
+
+    <!-- Mood Selection Form -->
+    <form id="mood-form">
+      <label for="mood">Select your mood:</label>
+      <div class="mood-options">
+        <input type="radio" id="focus" name="mood" value="focus">
+        <label for="focus">Focus</label>
+
+        <input type="radio" id="relax" name="mood" value="relax">
+        <label for="relax">Relax</label>
+
+        <input type="radio" id="energy" name="mood" value="energy">
+        <label for="energy">Energy</label>
+      </div>
+      <button type="submit" class="btn">Show Recommendations</button>
+    </form>
+
+    <!-- Recommendations List -->
+    <div id="recommendation-results">
+      <p>Please select a mood to see suggestions!</p>
+    </div>
+  </section>
+
+  <!-- Footer -->
+  <footer>
+    <p class="footer-links"><a href="#">About</a> | <a href="#">Contact</a> | <a href="#">Accessibility Info </a> | <a href="./site-plan.html">Site Plan</a></p>
+  </footer>
+
+</body>
+</html>

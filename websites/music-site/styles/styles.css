@@ -1,0 +1,264 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  body {
+    font-family: 'Lato', sans-serif;
+    line-height: 1.6;
+    background: #f9f9f9;
+    color: #333;
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+  }
+  
+  header {
+    background-color: #4a4e69;
+    color: #fff;
+    padding: 1rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  header h1 {
+    font-size: 1.5rem;
+  }
+  
+  nav ul {
+    list-style: none;
+    display: flex;
+    gap: 1rem;
+  }
+  
+  nav a {
+    color: #fff;
+    text-decoration: none;
+  }
+  
+  .hero, .recommendations, .how-it-works {
+    padding: 2rem;
+    text-align: center;
+  }
+
+  .recommendations {
+    background-color: #f4f4f4;
+  }
+  
+  .hero img {
+    max-width: 80%;
+    height: auto;
+    margin: 1rem auto;
+    display: block;
+  }
+  
+  .btn {
+    display: inline-block;
+    padding: 0.75rem 1.5rem;
+    background-color: #9a8c98;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 5px;
+    margin-top: 1rem;
+    transition: background 0.3s ease;
+  }
+  
+  .btn:hover {
+    background-color: #6c5b7b;
+  }
+  
+  .how-it-works .steps {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 2rem;
+    margin-top: 2rem;
+  }
+  
+  .step {
+    background: #fff;
+    padding: 1rem;
+    border-radius: 8px;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+    width: 150px;
+  }
+  
+  .step span {
+    font-size: 2rem;
+  }
+  
+  footer {
+    background-color: #4a4e69;
+    color: #fff;
+    text-align: center;
+    padding: 1rem;
+    margin-top: auto;
+    text-decoration: none;
+  }
+
+  footer a {
+    color: #fff;
+    text-decoration: none;
+    margin: 0 5%;
+  }
+  
+  /* Recommendations Form */
+  .mood-options {
+    display: flex;
+    justify-content: center;
+    gap: 1rem;
+    margin: 1rem 0;
+  }
+  
+  #mood-form label {
+    margin-right: 0.5rem;
+  }
+  
+  #recommendation-results {
+    margin-top: 2rem;
+    background-color: #f4f4f4;
+    padding: 1rem;
+    border-radius: 10px;
+  }
+  
+
+  .custom-audio {
+    width: 100%;
+    max-width: 400px;
+    margin-top: 1rem;
+    background-color: #4a4e69;
+    border-radius: 10px;
+    padding: 0.5rem;
+  }
+  
+  .custom-audio::-webkit-media-controls-panel {
+    background-color: #4a4e69;
+    border-radius: 10px;
+  }
+  
+  .custom-audio::-webkit-media-controls-play-button,
+  .custom-audio::-webkit-media-controls-volume-slider,
+  .custom-audio::-webkit-media-controls-mute-button {
+    filter: invert(100%);
+  }
+
+  
+  .recommendations {
+    background-color: #f4f4f4;
+    padding: 2rem;
+    text-align: center;
+  }
+
+
+  /* Responsive */
+  @media (max-width: 600px) {
+    nav ul {
+      flex-direction: column;
+      gap: 0.5rem;
+    }
+  
+    .how-it-works .steps {
+      flex-direction: column;
+      align-items: center;
+    }
+  }
+  
+li {
+    list-style-type: none;
+  }
+  
+  a {
+    text-decoration: none;
+    color: #333;
+  }
+  
+  .container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 1rem;
+  }
+  
+  header {
+    background-color: #333;
+    color: #fff;
+    padding: 1rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  nav ul {
+    display: flex;
+    gap: 1rem;
+  }
+  
+  nav a {
+    color: #fff;
+  }
+  
+  .hero {
+    background: url('../images/hero.jpg') no-repeat center center/cover;
+    color: black;
+    text-align: center;
+    padding: 2rem;
+  }
+  
+  .recommendations {
+    background-color: #f4f4f4;
+    padding: 2rem;
+    text-align: center;
+  }
+  
+  .recommendations h2 {
+    margin-bottom: 1rem;
+  }
+  
+  .recommendations p {
+    margin-bottom: 1rem;
+  }
+  
+  .recommendations form {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 1rem;
+    margin-top: 1rem;
+  }
+  
+  .recommendations input[type="submit"] {
+    background-color: #333;
+    color: #fff;
+    padding: 0.5rem 1rem;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .recommendations input[type="submit"]:hover {
+    background-color: #555;
+  }
+  
+  .recommendations .results {
+    margin-top: 1rem;
+  }
+  
+  .recommendations .results h3 {
+    margin-bottom: 1rem;
+  }
+  
+  .recommendations .results ul {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    gap: 1rem;
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .recommendations .results li {
+    background-color: #f9f9f9;
+    padding: 1rem;
+    border-radius: 5px;
+}
