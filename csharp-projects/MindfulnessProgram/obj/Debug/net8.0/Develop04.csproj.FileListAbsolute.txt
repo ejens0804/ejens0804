@@ -1,0 +1,15 @@
+C:\Users\ethan\Documents\cse210-projects\prove\develop04\bin\Debug\net8.0\Develop04.exe
+C:\Users\ethan\Documents\cse210-projects\prove\develop04\bin\Debug\net8.0\Develop04.deps.json
+C:\Users\ethan\Documents\cse210-projects\prove\develop04\bin\Debug\net8.0\Develop04.runtimeconfig.json
+C:\Users\ethan\Documents\cse210-projects\prove\develop04\bin\Debug\net8.0\Develop04.dll
+C:\Users\ethan\Documents\cse210-projects\prove\develop04\bin\Debug\net8.0\Develop04.pdb
+C:\Users\ethan\Documents\cse210-projects\prove\develop04\obj\Debug\net8.0\Develop04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ethan\Documents\cse210-projects\prove\develop04\obj\Debug\net8.0\Develop04.AssemblyInfoInputs.cache
+C:\Users\ethan\Documents\cse210-projects\prove\develop04\obj\Debug\net8.0\Develop04.AssemblyInfo.cs
+C:\Users\ethan\Documents\cse210-projects\prove\develop04\obj\Debug\net8.0\Develop04.csproj.CoreCompileInputs.cache
+C:\Users\ethan\Documents\cse210-projects\prove\develop04\obj\Debug\net8.0\Develop04.sourcelink.json
+C:\Users\ethan\Documents\cse210-projects\prove\develop04\obj\Debug\net8.0\Develop04.dll
+C:\Users\ethan\Documents\cse210-projects\prove\develop04\obj\Debug\net8.0\refint\Develop04.dll
+C:\Users\ethan\Documents\cse210-projects\prove\develop04\obj\Debug\net8.0\Develop04.pdb
+C:\Users\ethan\Documents\cse210-projects\prove\develop04\obj\Debug\net8.0\Develop04.genruntimeconfig.cache
+C:\Users\ethan\Documents\cse210-projects\prove\develop04\obj\Debug\net8.0\ref\Develop04.dll
