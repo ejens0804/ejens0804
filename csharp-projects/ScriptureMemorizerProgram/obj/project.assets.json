@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ethan\\Documents\\cse210-projects\\prove\\Develop03\\Develop03.csproj",
+      "projectUniqueName": "C:\\Users\\ethan\\Documents\\ejens0804\\csharp-projects\\ScriptureMemorizerProgram\\Develop03.csproj",
       "projectName": "Develop03",
-      "projectPath": "C:\\Users\\ethan\\Documents\\cse210-projects\\prove\\Develop03\\Develop03.csproj",
+      "projectPath": "C:\\Users\\ethan\\Documents\\ejens0804\\csharp-projects\\ScriptureMemorizerProgram\\Develop03.csproj",
       "packagesPath": "C:\\Users\\ethan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ethan\\Documents\\cse210-projects\\prove\\Develop03\\obj\\",
+      "outputPath": "C:\\Users\\ethan\\Documents\\ejens0804\\csharp-projects\\ScriptureMemorizerProgram\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ethan\\AppData\\Roaming\\NuGet\\NuGet.Config"

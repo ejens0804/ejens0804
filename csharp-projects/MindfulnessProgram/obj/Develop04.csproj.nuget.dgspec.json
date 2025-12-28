@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ethan\\Documents\\cse210-projects\\prove\\Develop04\\Develop04.csproj": {}
+    "C:\\Users\\ethan\\Documents\\ejens0804\\csharp-projects\\MindfulnessProgram\\Develop04.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ethan\\Documents\\cse210-projects\\prove\\Develop04\\Develop04.csproj": {
+    "C:\\Users\\ethan\\Documents\\ejens0804\\csharp-projects\\MindfulnessProgram\\Develop04.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ethan\\Documents\\cse210-projects\\prove\\Develop04\\Develop04.csproj",
+        "projectUniqueName": "C:\\Users\\ethan\\Documents\\ejens0804\\csharp-projects\\MindfulnessProgram\\Develop04.csproj",
         "projectName": "Develop04",
-        "projectPath": "C:\\Users\\ethan\\Documents\\cse210-projects\\prove\\Develop04\\Develop04.csproj",
+        "projectPath": "C:\\Users\\ethan\\Documents\\ejens0804\\csharp-projects\\MindfulnessProgram\\Develop04.csproj",
         "packagesPath": "C:\\Users\\ethan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ethan\\Documents\\cse210-projects\\prove\\Develop04\\obj\\",
+        "outputPath": "C:\\Users\\ethan\\Documents\\ejens0804\\csharp-projects\\MindfulnessProgram\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ethan\\AppData\\Roaming\\NuGet\\NuGet.Config"

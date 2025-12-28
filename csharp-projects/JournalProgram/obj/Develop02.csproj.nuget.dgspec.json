@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ethan\\Documents\\cse210-projects\\prove\\Develop02\\Develop02.csproj": {}
+    "C:\\Users\\ethan\\Documents\\ejens0804\\csharp-projects\\JournalProgram\\Develop02.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ethan\\Documents\\cse210-projects\\prove\\Develop02\\Develop02.csproj": {
+    "C:\\Users\\ethan\\Documents\\ejens0804\\csharp-projects\\JournalProgram\\Develop02.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ethan\\Documents\\cse210-projects\\prove\\Develop02\\Develop02.csproj",
+        "projectUniqueName": "C:\\Users\\ethan\\Documents\\ejens0804\\csharp-projects\\JournalProgram\\Develop02.csproj",
         "projectName": "Develop02",
-        "projectPath": "C:\\Users\\ethan\\Documents\\cse210-projects\\prove\\Develop02\\Develop02.csproj",
+        "projectPath": "C:\\Users\\ethan\\Documents\\ejens0804\\csharp-projects\\JournalProgram\\Develop02.csproj",
         "packagesPath": "C:\\Users\\ethan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ethan\\Documents\\cse210-projects\\prove\\Develop02\\obj\\",
+        "outputPath": "C:\\Users\\ethan\\Documents\\ejens0804\\csharp-projects\\JournalProgram\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ethan\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "rlwJtW4PDYE=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ethan\\Documents\\cse210-projects\\final\\FinalProject\\FinalProject.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ethan\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\7.0.1\\microsoft.extensions.logging.abstractions.7.0.1.nupkg.sha512",
+    "C:\\Users\\ethan\\.nuget\\packages\\mysqlconnector\\2.3.5\\mysqlconnector.2.3.5.nupkg.sha512"
+  ],
+  "logs": []
+}

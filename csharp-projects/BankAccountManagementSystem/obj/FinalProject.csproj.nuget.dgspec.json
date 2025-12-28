@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ethan\\Documents\\ejens0804\\csharp-projects\\ScriptureMemorizerProgram\\Develop03.csproj": {}
+    "C:\\Users\\ethan\\Documents\\cse210-projects\\final\\FinalProject\\FinalProject.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ethan\\Documents\\ejens0804\\csharp-projects\\ScriptureMemorizerProgram\\Develop03.csproj": {
+    "C:\\Users\\ethan\\Documents\\cse210-projects\\final\\FinalProject\\FinalProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ethan\\Documents\\ejens0804\\csharp-projects\\ScriptureMemorizerProgram\\Develop03.csproj",
-        "projectName": "Develop03",
-        "projectPath": "C:\\Users\\ethan\\Documents\\ejens0804\\csharp-projects\\ScriptureMemorizerProgram\\Develop03.csproj",
+        "projectUniqueName": "C:\\Users\\ethan\\Documents\\cse210-projects\\final\\FinalProject\\FinalProject.csproj",
+        "projectName": "FinalProject",
+        "projectPath": "C:\\Users\\ethan\\Documents\\cse210-projects\\final\\FinalProject\\FinalProject.csproj",
         "packagesPath": "C:\\Users\\ethan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ethan\\Documents\\ejens0804\\csharp-projects\\ScriptureMemorizerProgram\\obj\\",
+        "outputPath": "C:\\Users\\ethan\\Documents\\cse210-projects\\final\\FinalProject\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ethan\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -42,6 +42,12 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "dependencies": {
+            "MySqlConnector": {
+              "target": "Package",
+              "version": "[2.3.5, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
